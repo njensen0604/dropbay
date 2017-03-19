@@ -1,6 +1,6 @@
 # Drop Bay #
 
-![Drop Bay Screenshot](https://github.com/njensen0604/dropbay/icons/screenshot-dropbay-800w.jpg)
+![Drop Bay Screenshot](https://github.com/njensen0604/dropbay/blob/master/icons/screenshot-dropbay-800w.jpg)
 
 **Welcome to the next generation of note taking applications!** Drop Bay lets you record, organize, and view your notes using the most advanced encryption technology. With the power of your password, your notes are encrypted in [AES Encryption](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) – even the most seasoned hackers can’t decipher your notes! The pre-released version of Drop Bay includes:
 
